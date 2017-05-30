@@ -54,12 +54,6 @@
     "url": "http://github.com/modesty/pdf2json/issues",
     "email": "modestyz@hotmail.com"
   },
-  "bundleDependencies": [
-    "xmldom",
-    "underscore",
-    "optimist",
-    "async"
-  ],
   "contributors": [],
   "dependencies": {
     "async": ">=0.2.6",
